@@ -14,3 +14,8 @@ As part of my Bachelor's course in Data Analytics at Luigi Vanvitelli University
 - Using analytical thinking to support business strategies
 
 This project helped me connect theoretical concepts with practical applications in data analysis.
+## 📌 Example Application
+
+For example, data mining techniques can be applied to analyze customer purchase behavior, identify patterns, and improve marketing strategies.
+
+This shows how data can directly support business decision-making.
